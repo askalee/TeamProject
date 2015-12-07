@@ -14,6 +14,7 @@ namespace TeamProject.Tests
         public void Test1()
         {
             Assert.That(3 + 3, Is.EqualTo(6));
+            Assert.That(1 - 1, Is.EqualTo(0));
         }
     }
 }
