@@ -13,7 +13,7 @@ namespace TeamProject.Tests
         [Test]
         public void Test1()
         {
-            Assert.That(1 + 1, Is.EqualTo(2));
+            Assert.That(0 + 0, Is.EqualTo(0));
         }
     }
 }
